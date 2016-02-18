@@ -1,0 +1,72 @@
+commit 2eeca5419e5b99bcb0bea88c2389219715dace99
+Author: Eric Olson <eric.olson.411@gmail.com>
+
+    Changed mouth color to orange
+
+commit 5d6ffbacc8460dc6589aec8519c9d397c80837a1
+Merge: 8c9de1c a53fc21
+Author: Eric Olson <eric.olson.411@gmail.com>
+
+    Merge branch 'master' of https://github.com/allannguyen/DrawPlay
+
+commit a53fc2186a8e58e8b64ed21d45bad0645609a2ae
+Author: unknown <allnguye@MZ026-09.adit.mines.edu>
+
+    Moved eyes down to 30
+
+commit 8c9de1cc52c1637ff2387aba530fcc2051919e6a
+Author: Eric Olson <eric.olson.411@gmail.com>
+
+    Changed head size
+
+commit 282bf802ec3ba3a0f3e44087e9ba1f9aa5847b78
+Merge: e6de0c0 3c0a9fa
+Author: unknown <allnguye@MZ026-09.adit.mines.edu>
+
+    Merge branch 'master' of https://github.com/allannguyen/DrawPlay
+
+commit e6de0c0add21ca0516f7f6cbd4696893be2c853d
+Author: unknown <allnguye@MZ026-09.adit.mines.edu>
+
+    Increased width and position of mouth
+
+commit 3c0a9fad9e0f81f2ff174deacd35c29c0725b1fe
+Author: Eric Olson <eric.olson.411@gmail.com>
+
+    Changed window size
+
+commit 7cd460fb4da0debbcd04baa9c5f209b44a761664
+Merge: d1a297e e11ae61
+Author: Eric Olson <eric.olson.411@gmail.com>
+
+    Fixed conflict
+
+commit d1a297e85a5606af6029d8170393578174665647
+Author: Eric Olson <eric.olson.411@gmail.com>
+
+    Added Comment to cat.java
+
+commit 52c4317646355e8f7be087e15248149d4c421fc3
+Author: Eric Olson <eric.olson.411@gmail.com>
+
+    Added more to README
+
+commit e11ae6194db515b5b3f1f50bc4aa7f6cabf57711
+Author: unknown <allnguye@MZ026-09.adit.mines.edu>
+
+    No ears comment
+
+commit 180d95b1a89347b12cbe6329f42d574bda35b8dc
+Author: Eric Olson <eric.olson.411@gmail.com>
+
+    Updated README
+
+commit dff539325f0340303d3d09f1ba5553f3e392b742
+Author: unknown <allnguye@MZ026-09.adit.mines.edu>
+
+    Added files
+
+commit 6a4f87c7d2f7b959a90a90f6f18ecc443dd64a5f
+Author: allannguyen <allnguye@mymail.mines.edu>
+
+    Initial commit
